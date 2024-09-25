@@ -1,0 +1,1898 @@
+[
+    {
+        "image_names": "image_1",
+        "iou": 0.4283420443534851
+    },
+    {
+        "image_names": "image_2",
+        "iou": 0.6548529863357544
+    },
+    {
+        "image_names": "image_3",
+        "iou": 0.5989795923233032
+    },
+    {
+        "image_names": "image_4",
+        "iou": 0.6828025579452515
+    },
+    {
+        "image_names": "image_5",
+        "iou": 0.4563233256340027
+    },
+    {
+        "image_names": "image_6",
+        "iou": 0.6320206522941589
+    },
+    {
+        "image_names": "image_7",
+        "iou": 0.47492626309394836
+    },
+    {
+        "image_names": "image_8",
+        "iou": 0.6349775791168213
+    },
+    {
+        "image_names": "image_9",
+        "iou": 0.3819718360900879
+    },
+    {
+        "image_names": "image_10",
+        "iou": 0.4491561949253082
+    },
+    {
+        "image_names": "image_11",
+        "iou": 0.7186761498451233
+    },
+    {
+        "image_names": "image_12",
+        "iou": 0.6582996249198914
+    },
+    {
+        "image_names": "image_13",
+        "iou": 0.5327364206314087
+    },
+    {
+        "image_names": "image_14",
+        "iou": 0.5479704737663269
+    },
+    {
+        "image_names": "image_15",
+        "iou": 0.7398817539215088
+    },
+    {
+        "image_names": "image_16",
+        "iou": 0.5674759745597839
+    },
+    {
+        "image_names": "image_17",
+        "iou": 0.42781874537467957
+    },
+    {
+        "image_names": "image_18",
+        "iou": 0.5708766579627991
+    },
+    {
+        "image_names": "image_19",
+        "iou": 0.5806151032447815
+    },
+    {
+        "image_names": "image_20",
+        "iou": 0.5223482251167297
+    },
+    {
+        "image_names": "image_21",
+        "iou": 0.4752747118473053
+    },
+    {
+        "image_names": "image_22",
+        "iou": 0.42748644948005676
+    },
+    {
+        "image_names": "image_23",
+        "iou": 0.6111529469490051
+    },
+    {
+        "image_names": "image_25",
+        "iou": 0.5715889930725098
+    },
+    {
+        "image_names": "image_26",
+        "iou": 0.5592163801193237
+    },
+    {
+        "image_names": "image_27",
+        "iou": 0.48202189803123474
+    },
+    {
+        "image_names": "image_28",
+        "iou": 0.7633466124534607
+    },
+    {
+        "image_names": "image_29",
+        "iou": 0.5877503156661987
+    },
+    {
+        "image_names": "image_30",
+        "iou": 0.6054826974868774
+    },
+    {
+        "image_names": "image_31",
+        "iou": 0.26217982172966003
+    },
+    {
+        "image_names": "image_32",
+        "iou": 0.5461346507072449
+    },
+    {
+        "image_names": "image_33",
+        "iou": 0.47253745794296265
+    },
+    {
+        "image_names": "image_34",
+        "iou": 0.36881354451179504
+    },
+    {
+        "image_names": "image_35",
+        "iou": 0.39800286293029785
+    },
+    {
+        "image_names": "image_36",
+        "iou": 0.6226415038108826
+    },
+    {
+        "image_names": "image_37",
+        "iou": 0.5351515412330627
+    },
+    {
+        "image_names": "image_38",
+        "iou": 0.5015290379524231
+    },
+    {
+        "image_names": "image_39",
+        "iou": 0.5405930876731873
+    },
+    {
+        "image_names": "image_40",
+        "iou": 0.5209551453590393
+    },
+    {
+        "image_names": "image_41",
+        "iou": 0.49705633521080017
+    },
+    {
+        "image_names": "image_42",
+        "iou": 0.5862069129943848
+    },
+    {
+        "image_names": "image_43",
+        "iou": 0.5481191873550415
+    },
+    {
+        "image_names": "image_44",
+        "iou": 0.5244460105895996
+    },
+    {
+        "image_names": "image_45",
+        "iou": 0.501329779624939
+    },
+    {
+        "image_names": "image_46",
+        "iou": 0.5671250820159912
+    },
+    {
+        "image_names": "image_47",
+        "iou": 0.40285205841064453
+    },
+    {
+        "image_names": "image_48",
+        "iou": 0.5767226219177246
+    },
+    {
+        "image_names": "image_49",
+        "iou": 0.6110796928405762
+    },
+    {
+        "image_names": "image_50",
+        "iou": 0.5019620656967163
+    },
+    {
+        "image_names": "image_51",
+        "iou": 0.5247432589530945
+    },
+    {
+        "image_names": "image_52",
+        "iou": 0.36854684352874756
+    },
+    {
+        "image_names": "image_53",
+        "iou": 0.5719895362854004
+    },
+    {
+        "image_names": "image_54",
+        "iou": 0.4329445958137512
+    },
+    {
+        "image_names": "image_55",
+        "iou": 0.5955766439437866
+    },
+    {
+        "image_names": "image_56",
+        "iou": 0.12887439131736755
+    },
+    {
+        "image_names": "image_57",
+        "iou": 0.5918832421302795
+    },
+    {
+        "image_names": "image_58",
+        "iou": 0.3617021143436432
+    },
+    {
+        "image_names": "image_59",
+        "iou": 0.584856390953064
+    },
+    {
+        "image_names": "image_60",
+        "iou": 0.36114221811294556
+    },
+    {
+        "image_names": "image_61",
+        "iou": 0.45248618721961975
+    },
+    {
+        "image_names": "image_62",
+        "iou": 0.6808905601501465
+    },
+    {
+        "image_names": "image_63",
+        "iou": 0.5066753625869751
+    },
+    {
+        "image_names": "image_64",
+        "iou": 0.639235258102417
+    },
+    {
+        "image_names": "image_65",
+        "iou": 0.4734886884689331
+    },
+    {
+        "image_names": "image_66",
+        "iou": 0.5228787064552307
+    },
+    {
+        "image_names": "image_67",
+        "iou": 0.5993930101394653
+    },
+    {
+        "image_names": "image_68",
+        "iou": 0.4453602731227875
+    },
+    {
+        "image_names": "image_69",
+        "iou": 0.4029909372329712
+    },
+    {
+        "image_names": "image_70",
+        "iou": 0.48012661933898926
+    },
+    {
+        "image_names": "image_71",
+        "iou": 0.5757575631141663
+    },
+    {
+        "image_names": "image_72",
+        "iou": 0.7885010242462158
+    },
+    {
+        "image_names": "image_73",
+        "iou": 0.6397351026535034
+    },
+    {
+        "image_names": "image_74",
+        "iou": 0.351589560508728
+    },
+    {
+        "image_names": "image_75",
+        "iou": 0.6375839114189148
+    },
+    {
+        "image_names": "image_76",
+        "iou": 0.784959614276886
+    },
+    {
+        "image_names": "image_77",
+        "iou": 0.4971722364425659
+    },
+    {
+        "image_names": "image_78",
+        "iou": 0.7032819986343384
+    },
+    {
+        "image_names": "image_79",
+        "iou": 0.44173604249954224
+    },
+    {
+        "image_names": "image_80",
+        "iou": 0.6692699193954468
+    },
+    {
+        "image_names": "image_81",
+        "iou": 0.49639835953712463
+    },
+    {
+        "image_names": "image_82",
+        "iou": 0.4848402738571167
+    },
+    {
+        "image_names": "image_83",
+        "iou": 0.5114595890045166
+    },
+    {
+        "image_names": "image_84",
+        "iou": 0.43570420145988464
+    },
+    {
+        "image_names": "image_85",
+        "iou": 0.5635766983032227
+    },
+    {
+        "image_names": "image_86",
+        "iou": 0.6744022369384766
+    },
+    {
+        "image_names": "image_87",
+        "iou": 0.429423451423645
+    },
+    {
+        "image_names": "image_88",
+        "iou": 0.6358839273452759
+    },
+    {
+        "image_names": "image_89",
+        "iou": 0.5199378728866577
+    },
+    {
+        "image_names": "image_90",
+        "iou": 0.6336320638656616
+    },
+    {
+        "image_names": "image_91",
+        "iou": 0.6616033911705017
+    },
+    {
+        "image_names": "image_92",
+        "iou": 0.6395040154457092
+    },
+    {
+        "image_names": "image_93",
+        "iou": 0.6537278890609741
+    },
+    {
+        "image_names": "image_94",
+        "iou": 0.5427451133728027
+    },
+    {
+        "image_names": "image_95",
+        "iou": 0.5526924133300781
+    },
+    {
+        "image_names": "image_96",
+        "iou": 0.5553946495056152
+    },
+    {
+        "image_names": "image_97",
+        "iou": 0.7484554052352905
+    },
+    {
+        "image_names": "image_98",
+        "iou": 0.6592140793800354
+    },
+    {
+        "image_names": "image_99",
+        "iou": 0.609919548034668
+    },
+    {
+        "image_names": "image_100",
+        "iou": 0.42534908652305603
+    },
+    {
+        "image_names": "image_101",
+        "iou": 0.4579710066318512
+    },
+    {
+        "image_names": "image_102",
+        "iou": 0.640032947063446
+    },
+    {
+        "image_names": "image_103",
+        "iou": 0.5502257347106934
+    },
+    {
+        "image_names": "image_104",
+        "iou": 0.6440101861953735
+    },
+    {
+        "image_names": "image_105",
+        "iou": 0.5302901268005371
+    },
+    {
+        "image_names": "image_106",
+        "iou": 0.5602536797523499
+    },
+    {
+        "image_names": "image_107",
+        "iou": 0.5865070819854736
+    },
+    {
+        "image_names": "image_108",
+        "iou": 0.293570876121521
+    },
+    {
+        "image_names": "image_109",
+        "iou": 0.5428156852722168
+    },
+    {
+        "image_names": "image_110",
+        "iou": 0.5598264336585999
+    },
+    {
+        "image_names": "image_111",
+        "iou": 0.5165541768074036
+    },
+    {
+        "image_names": "image_112",
+        "iou": 0.5575641989707947
+    },
+    {
+        "image_names": "image_113",
+        "iou": 0.6127017140388489
+    },
+    {
+        "image_names": "image_114",
+        "iou": 0.5803642272949219
+    },
+    {
+        "image_names": "image_115",
+        "iou": 0.6950240731239319
+    },
+    {
+        "image_names": "image_116",
+        "iou": 0.6825757622718811
+    },
+    {
+        "image_names": "image_117",
+        "iou": 0.5649409890174866
+    },
+    {
+        "image_names": "image_118",
+        "iou": 0.6093100309371948
+    },
+    {
+        "image_names": "image_119",
+        "iou": 0.7220279574394226
+    },
+    {
+        "image_names": "image_120",
+        "iou": 0.5326780080795288
+    },
+    {
+        "image_names": "image_121",
+        "iou": 0.6682927012443542
+    },
+    {
+        "image_names": "image_122",
+        "iou": 0.6072931289672852
+    },
+    {
+        "image_names": "image_123",
+        "iou": 0.5249140858650208
+    },
+    {
+        "image_names": "image_124",
+        "iou": 0.6397515535354614
+    },
+    {
+        "image_names": "image_125",
+        "iou": 0.22677595913410187
+    },
+    {
+        "image_names": "image_126",
+        "iou": 0.7152034044265747
+    },
+    {
+        "image_names": "image_127",
+        "iou": 0.5492570400238037
+    },
+    {
+        "image_names": "image_128",
+        "iou": 0.5896262526512146
+    },
+    {
+        "image_names": "image_129",
+        "iou": 0.46134132146835327
+    },
+    {
+        "image_names": "image_130",
+        "iou": 0.750164806842804
+    },
+    {
+        "image_names": "image_131",
+        "iou": 0.3910016119480133
+    },
+    {
+        "image_names": "image_132",
+        "iou": 0.48128485679626465
+    },
+    {
+        "image_names": "image_133",
+        "iou": 0.38492682576179504
+    },
+    {
+        "image_names": "image_134",
+        "iou": 0.5956896543502808
+    },
+    {
+        "image_names": "image_135",
+        "iou": 0.5698614120483398
+    },
+    {
+        "image_names": "image_136",
+        "iou": 0.7303957939147949
+    },
+    {
+        "image_names": "image_137",
+        "iou": 0.5692963600158691
+    },
+    {
+        "image_names": "image_138",
+        "iou": 0.5398811101913452
+    },
+    {
+        "image_names": "image_139",
+        "iou": 0.5628121495246887
+    },
+    {
+        "image_names": "image_140",
+        "iou": 0.5126641392707825
+    },
+    {
+        "image_names": "image_141",
+        "iou": 0.4096474051475525
+    },
+    {
+        "image_names": "image_142",
+        "iou": 0.5453788638114929
+    },
+    {
+        "image_names": "image_143",
+        "iou": 0.6243996024131775
+    },
+    {
+        "image_names": "image_144",
+        "iou": 0.5384615659713745
+    },
+    {
+        "image_names": "image_145",
+        "iou": 0.6392084956169128
+    },
+    {
+        "image_names": "image_146",
+        "iou": 0.38695091009140015
+    },
+    {
+        "image_names": "image_147",
+        "iou": 0.5227272510528564
+    },
+    {
+        "image_names": "image_148",
+        "iou": 0.5230961441993713
+    },
+    {
+        "image_names": "image_149",
+        "iou": 0.5448979735374451
+    },
+    {
+        "image_names": "image_150",
+        "iou": 0.6329787373542786
+    },
+    {
+        "image_names": "image_151",
+        "iou": 0.6397058963775635
+    },
+    {
+        "image_names": "image_152",
+        "iou": 0.4409201741218567
+    },
+    {
+        "image_names": "image_153",
+        "iou": 0.515943169593811
+    },
+    {
+        "image_names": "image_154",
+        "iou": 0.5203251838684082
+    },
+    {
+        "image_names": "image_155",
+        "iou": 0.49543794989585876
+    },
+    {
+        "image_names": "image_156",
+        "iou": 0.5388198494911194
+    },
+    {
+        "image_names": "image_157",
+        "iou": 0.6345070600509644
+    },
+    {
+        "image_names": "image_158",
+        "iou": 0.542982816696167
+    },
+    {
+        "image_names": "image_159",
+        "iou": 0.5890563726425171
+    },
+    {
+        "image_names": "image_160",
+        "iou": 0.5357005000114441
+    },
+    {
+        "image_names": "image_161",
+        "iou": 0.6204519271850586
+    },
+    {
+        "image_names": "image_162",
+        "iou": 0.39269956946372986
+    },
+    {
+        "image_names": "image_163",
+        "iou": 0.4698296785354614
+    },
+    {
+        "image_names": "image_164",
+        "iou": 0.6774406433105469
+    },
+    {
+        "image_names": "image_165",
+        "iou": 0.5295467376708984
+    },
+    {
+        "image_names": "image_166",
+        "iou": 0.4446738362312317
+    },
+    {
+        "image_names": "image_167",
+        "iou": 0.6030303239822388
+    },
+    {
+        "image_names": "image_168",
+        "iou": 0.5500527024269104
+    },
+    {
+        "image_names": "image_169",
+        "iou": 0.5588889122009277
+    },
+    {
+        "image_names": "image_170",
+        "iou": 0.7844011187553406
+    },
+    {
+        "image_names": "image_171",
+        "iou": 0.6624122262001038
+    },
+    {
+        "image_names": "image_172",
+        "iou": 0.5734924674034119
+    },
+    {
+        "image_names": "image_173",
+        "iou": 0.4620114266872406
+    },
+    {
+        "image_names": "image_174",
+        "iou": 0.3536047041416168
+    },
+    {
+        "image_names": "image_175",
+        "iou": 0.649653434753418
+    },
+    {
+        "image_names": "image_176",
+        "iou": 0.5911837816238403
+    },
+    {
+        "image_names": "image_177",
+        "iou": 0.5081413388252258
+    },
+    {
+        "image_names": "image_178",
+        "iou": 0.7098255157470703
+    },
+    {
+        "image_names": "image_179",
+        "iou": 0.5560081601142883
+    },
+    {
+        "image_names": "image_180",
+        "iou": 0.5202913880348206
+    },
+    {
+        "image_names": "image_181",
+        "iou": 0.5036351680755615
+    },
+    {
+        "image_names": "image_182",
+        "iou": 0.48030373454093933
+    },
+    {
+        "image_names": "image_183",
+        "iou": 0.6183294653892517
+    },
+    {
+        "image_names": "image_184",
+        "iou": 0.6217752695083618
+    },
+    {
+        "image_names": "image_185",
+        "iou": 0.52042555809021
+    },
+    {
+        "image_names": "image_186",
+        "iou": 0.46008041501045227
+    },
+    {
+        "image_names": "image_187",
+        "iou": 0.7579013705253601
+    },
+    {
+        "image_names": "image_188",
+        "iou": 0.6571242809295654
+    },
+    {
+        "image_names": "image_189",
+        "iou": 0.42746400833129883
+    },
+    {
+        "image_names": "image_190",
+        "iou": 0.31886792182922363
+    },
+    {
+        "image_names": "image_191",
+        "iou": 0.5726439952850342
+    },
+    {
+        "image_names": "image_192",
+        "iou": 0.5064102411270142
+    },
+    {
+        "image_names": "image_193",
+        "iou": 0.6000000238418579
+    },
+    {
+        "image_names": "image_194",
+        "iou": 0.5346184372901917
+    },
+    {
+        "image_names": "image_195",
+        "iou": 0.4875296950340271
+    },
+    {
+        "image_names": "image_196",
+        "iou": 0.7125614881515503
+    },
+    {
+        "image_names": "image_197",
+        "iou": 0.6131961345672607
+    },
+    {
+        "image_names": "image_198",
+        "iou": 0.5936315655708313
+    },
+    {
+        "image_names": "image_199",
+        "iou": 0.6410736441612244
+    },
+    {
+        "image_names": "image_200",
+        "iou": 0.5080645084381104
+    },
+    {
+        "image_names": "image_201",
+        "iou": 0.4903475046157837
+    },
+    {
+        "image_names": "image_202",
+        "iou": 0.4461330771446228
+    },
+    {
+        "image_names": "image_203",
+        "iou": 0.6139489412307739
+    },
+    {
+        "image_names": "image_204",
+        "iou": 0.5851565599441528
+    },
+    {
+        "image_names": "image_205",
+        "iou": 0.6741908192634583
+    },
+    {
+        "image_names": "image_206",
+        "iou": 0.6528037190437317
+    },
+    {
+        "image_names": "image_207",
+        "iou": 0.5344287753105164
+    },
+    {
+        "image_names": "image_208",
+        "iou": 0.6419903039932251
+    },
+    {
+        "image_names": "image_209",
+        "iou": 0.46024635434150696
+    },
+    {
+        "image_names": "image_210",
+        "iou": 0.5569155216217041
+    },
+    {
+        "image_names": "image_211",
+        "iou": 0.4276960790157318
+    },
+    {
+        "image_names": "image_212",
+        "iou": 0.46457991003990173
+    },
+    {
+        "image_names": "image_213",
+        "iou": 0.4771844744682312
+    },
+    {
+        "image_names": "image_214",
+        "iou": 0.5084015727043152
+    },
+    {
+        "image_names": "image_215",
+        "iou": 0.6664243936538696
+    },
+    {
+        "image_names": "image_216",
+        "iou": 0.5503089427947998
+    },
+    {
+        "image_names": "image_217",
+        "iou": 0.6054365634918213
+    },
+    {
+        "image_names": "image_218",
+        "iou": 0.5850561261177063
+    },
+    {
+        "image_names": "image_219",
+        "iou": 0.5378445982933044
+    },
+    {
+        "image_names": "image_220",
+        "iou": 0.26928839087486267
+    },
+    {
+        "image_names": "image_221",
+        "iou": 0.582533597946167
+    },
+    {
+        "image_names": "image_222",
+        "iou": 0.5008963942527771
+    },
+    {
+        "image_names": "image_223",
+        "iou": 0.5438363552093506
+    },
+    {
+        "image_names": "image_224",
+        "iou": 0.33170732855796814
+    },
+    {
+        "image_names": "image_225",
+        "iou": 0.36734136939048767
+    },
+    {
+        "image_names": "image_226",
+        "iou": 0.4944320619106293
+    },
+    {
+        "image_names": "image_227",
+        "iou": 0.42615512013435364
+    },
+    {
+        "image_names": "image_229",
+        "iou": 0.4524714946746826
+    },
+    {
+        "image_names": "image_230",
+        "iou": 0.5942028760910034
+    },
+    {
+        "image_names": "image_231",
+        "iou": 0.5575868487358093
+    },
+    {
+        "image_names": "image_232",
+        "iou": 0.48164281249046326
+    },
+    {
+        "image_names": "image_233",
+        "iou": 0.5779221057891846
+    },
+    {
+        "image_names": "image_234",
+        "iou": 0.49649012088775635
+    },
+    {
+        "image_names": "image_235",
+        "iou": 0.6073760986328125
+    },
+    {
+        "image_names": "image_236",
+        "iou": 0.33346644043922424
+    },
+    {
+        "image_names": "image_237",
+        "iou": 0.4959128201007843
+    },
+    {
+        "image_names": "image_238",
+        "iou": 0.5826705694198608
+    },
+    {
+        "image_names": "image_239",
+        "iou": 0.2573552131652832
+    },
+    {
+        "image_names": "image_240",
+        "iou": 0.4673784077167511
+    },
+    {
+        "image_names": "image_241",
+        "iou": 0.637855589389801
+    },
+    {
+        "image_names": "image_242",
+        "iou": 0.46568626165390015
+    },
+    {
+        "image_names": "image_243",
+        "iou": 0.5169469714164734
+    },
+    {
+        "image_names": "image_244",
+        "iou": 0.7485417723655701
+    },
+    {
+        "image_names": "image_245",
+        "iou": 0.5671313405036926
+    },
+    {
+        "image_names": "image_246",
+        "iou": 0.6180555820465088
+    },
+    {
+        "image_names": "image_247",
+        "iou": 0.5036382675170898
+    },
+    {
+        "image_names": "image_248",
+        "iou": 0.49030905961990356
+    },
+    {
+        "image_names": "image_249",
+        "iou": 0.5797421932220459
+    },
+    {
+        "image_names": "image_250",
+        "iou": 0.4647015929222107
+    },
+    {
+        "image_names": "image_251",
+        "iou": 0.6801988482475281
+    },
+    {
+        "image_names": "image_252",
+        "iou": 0.6261083483695984
+    },
+    {
+        "image_names": "image_253",
+        "iou": 0.6529948115348816
+    },
+    {
+        "image_names": "image_254",
+        "iou": 0.5220286846160889
+    },
+    {
+        "image_names": "image_255",
+        "iou": 0.5647571682929993
+    },
+    {
+        "image_names": "image_256",
+        "iou": 0.4791288673877716
+    },
+    {
+        "image_names": "image_257",
+        "iou": 0.3458177149295807
+    },
+    {
+        "image_names": "image_258",
+        "iou": 0.4956420660018921
+    },
+    {
+        "image_names": "image_259",
+        "iou": 0.5163834691047668
+    },
+    {
+        "image_names": "image_260",
+        "iou": 0.6896551847457886
+    },
+    {
+        "image_names": "image_261",
+        "iou": 0.5362678170204163
+    },
+    {
+        "image_names": "image_262",
+        "iou": 0.611825168132782
+    },
+    {
+        "image_names": "image_263",
+        "iou": 0.49802371859550476
+    },
+    {
+        "image_names": "image_264",
+        "iou": 0.47228381037712097
+    },
+    {
+        "image_names": "image_265",
+        "iou": 0.5265654921531677
+    },
+    {
+        "image_names": "image_266",
+        "iou": 0.4976263642311096
+    },
+    {
+        "image_names": "image_267",
+        "iou": 0.5549085140228271
+    },
+    {
+        "image_names": "image_268",
+        "iou": 0.679584801197052
+    },
+    {
+        "image_names": "image_269",
+        "iou": 0.6223155856132507
+    },
+    {
+        "image_names": "image_270",
+        "iou": 0.606630802154541
+    },
+    {
+        "image_names": "image_271",
+        "iou": 0.5646860599517822
+    },
+    {
+        "image_names": "image_272",
+        "iou": 0.46871164441108704
+    },
+    {
+        "image_names": "image_273",
+        "iou": 0.5857868194580078
+    },
+    {
+        "image_names": "image_274",
+        "iou": 0.6599162220954895
+    },
+    {
+        "image_names": "image_275",
+        "iou": 0.5460789799690247
+    },
+    {
+        "image_names": "image_276",
+        "iou": 0.6362759470939636
+    },
+    {
+        "image_names": "image_277",
+        "iou": 0.4267955720424652
+    },
+    {
+        "image_names": "image_278",
+        "iou": 0.5728021860122681
+    },
+    {
+        "image_names": "image_279",
+        "iou": 0.5521653294563293
+    },
+    {
+        "image_names": "image_280",
+        "iou": 0.5418401956558228
+    },
+    {
+        "image_names": "image_281",
+        "iou": 0.6258113980293274
+    },
+    {
+        "image_names": "image_282",
+        "iou": 0.6826801300048828
+    },
+    {
+        "image_names": "image_283",
+        "iou": 0.48694908618927
+    },
+    {
+        "image_names": "image_284",
+        "iou": 0.5420503616333008
+    },
+    {
+        "image_names": "image_285",
+        "iou": 0.5329192280769348
+    },
+    {
+        "image_names": "image_286",
+        "iou": 0.148523211479187
+    },
+    {
+        "image_names": "image_287",
+        "iou": 0.4892353415489197
+    },
+    {
+        "image_names": "image_288",
+        "iou": 0.49568966031074524
+    },
+    {
+        "image_names": "image_289",
+        "iou": 0.6702390909194946
+    },
+    {
+        "image_names": "image_290",
+        "iou": 0.5548060536384583
+    },
+    {
+        "image_names": "image_291",
+        "iou": 0.4800758957862854
+    },
+    {
+        "image_names": "image_292",
+        "iou": 0.4941779375076294
+    },
+    {
+        "image_names": "image_293",
+        "iou": 0.3604193925857544
+    },
+    {
+        "image_names": "image_294",
+        "iou": 0.7070815563201904
+    },
+    {
+        "image_names": "image_295",
+        "iou": 0.6589215397834778
+    },
+    {
+        "image_names": "image_296",
+        "iou": 0.5140056014060974
+    },
+    {
+        "image_names": "image_297",
+        "iou": 0.7135036587715149
+    },
+    {
+        "image_names": "image_298",
+        "iou": 0.6222935318946838
+    },
+    {
+        "image_names": "image_299",
+        "iou": 0.49247312545776367
+    },
+    {
+        "image_names": "image_300",
+        "iou": 0.5108647346496582
+    },
+    {
+        "image_names": "image_301",
+        "iou": 0.7197080254554749
+    },
+    {
+        "image_names": "image_302",
+        "iou": 0.5970315337181091
+    },
+    {
+        "image_names": "image_303",
+        "iou": 0.653792142868042
+    },
+    {
+        "image_names": "image_304",
+        "iou": 0.41072049736976624
+    },
+    {
+        "image_names": "image_305",
+        "iou": 0.650067925453186
+    },
+    {
+        "image_names": "image_306",
+        "iou": 0.51846843957901
+    },
+    {
+        "image_names": "image_307",
+        "iou": 0.5965138673782349
+    },
+    {
+        "image_names": "image_308",
+        "iou": 0.6073486804962158
+    },
+    {
+        "image_names": "image_309",
+        "iou": 0.07165948301553726
+    },
+    {
+        "image_names": "image_310",
+        "iou": 0.5727590322494507
+    },
+    {
+        "image_names": "image_311",
+        "iou": 0.6484437584877014
+    },
+    {
+        "image_names": "image_312",
+        "iou": 0.5883721113204956
+    },
+    {
+        "image_names": "image_313",
+        "iou": 0.5870967507362366
+    },
+    {
+        "image_names": "image_314",
+        "iou": 0.6933079361915588
+    },
+    {
+        "image_names": "image_315",
+        "iou": 0.6233183741569519
+    },
+    {
+        "image_names": "image_316",
+        "iou": 0.4934282600879669
+    },
+    {
+        "image_names": "image_317",
+        "iou": 0.47088906168937683
+    },
+    {
+        "image_names": "image_318",
+        "iou": 0.6262705326080322
+    },
+    {
+        "image_names": "image_319",
+        "iou": 0.535243570804596
+    },
+    {
+        "image_names": "image_320",
+        "iou": 0.5437601208686829
+    },
+    {
+        "image_names": "image_321",
+        "iou": 0.6925892233848572
+    },
+    {
+        "image_names": "image_322",
+        "iou": 0.7014925479888916
+    },
+    {
+        "image_names": "image_323",
+        "iou": 0.691893994808197
+    },
+    {
+        "image_names": "image_324",
+        "iou": 0.7031662464141846
+    },
+    {
+        "image_names": "image_325",
+        "iou": 0.6167904138565063
+    },
+    {
+        "image_names": "image_326",
+        "iou": 0.4683544337749481
+    },
+    {
+        "image_names": "image_327",
+        "iou": 0.597046434879303
+    },
+    {
+        "image_names": "image_328",
+        "iou": 0.5106520056724548
+    },
+    {
+        "image_names": "image_329",
+        "iou": 0.5223124027252197
+    },
+    {
+        "image_names": "image_330",
+        "iou": 0.5970083475112915
+    },
+    {
+        "image_names": "image_331",
+        "iou": 0.4006136953830719
+    },
+    {
+        "image_names": "image_332",
+        "iou": 0.44374409317970276
+    },
+    {
+        "image_names": "image_333",
+        "iou": 0.44820716977119446
+    },
+    {
+        "image_names": "image_334",
+        "iou": 0.5650713443756104
+    },
+    {
+        "image_names": "image_335",
+        "iou": 0.5304475426673889
+    },
+    {
+        "image_names": "image_336",
+        "iou": 0.572139322757721
+    },
+    {
+        "image_names": "image_337",
+        "iou": 0.680935800075531
+    },
+    {
+        "image_names": "image_338",
+        "iou": 0.45514822006225586
+    },
+    {
+        "image_names": "image_339",
+        "iou": 0.1694214940071106
+    },
+    {
+        "image_names": "image_340",
+        "iou": 0.7809315919876099
+    },
+    {
+        "image_names": "image_341",
+        "iou": 0.1889447271823883
+    },
+    {
+        "image_names": "image_342",
+        "iou": 0.4427807629108429
+    },
+    {
+        "image_names": "image_343",
+        "iou": 0.5225401520729065
+    },
+    {
+        "image_names": "image_344",
+        "iou": 0.47793880105018616
+    },
+    {
+        "image_names": "image_345",
+        "iou": 0.507875382900238
+    },
+    {
+        "image_names": "image_346",
+        "iou": 0.45860567688941956
+    },
+    {
+        "image_names": "image_347",
+        "iou": 0.5680044889450073
+    },
+    {
+        "image_names": "image_348",
+        "iou": 0.37304452061653137
+    },
+    {
+        "image_names": "image_349",
+        "iou": 0.6885411143302917
+    },
+    {
+        "image_names": "image_350",
+        "iou": 0.5992122292518616
+    },
+    {
+        "image_names": "image_351",
+        "iou": 0.44232437014579773
+    },
+    {
+        "image_names": "image_352",
+        "iou": 0.464448481798172
+    },
+    {
+        "image_names": "image_353",
+        "iou": 0.45799458026885986
+    },
+    {
+        "image_names": "image_354",
+        "iou": 0.5911885499954224
+    },
+    {
+        "image_names": "image_355",
+        "iou": 0.48090437054634094
+    },
+    {
+        "image_names": "image_356",
+        "iou": 0.4747239947319031
+    },
+    {
+        "image_names": "image_357",
+        "iou": 0.596969723701477
+    },
+    {
+        "image_names": "image_358",
+        "iou": 0.6329808235168457
+    },
+    {
+        "image_names": "image_359",
+        "iou": 0.5270025134086609
+    },
+    {
+        "image_names": "image_360",
+        "iou": 0.7291666865348816
+    },
+    {
+        "image_names": "image_361",
+        "iou": 0.5122511386871338
+    },
+    {
+        "image_names": "image_362",
+        "iou": 0.6389776468276978
+    },
+    {
+        "image_names": "image_363",
+        "iou": 0.5222862958908081
+    },
+    {
+        "image_names": "image_364",
+        "iou": 0.5364806652069092
+    },
+    {
+        "image_names": "image_365",
+        "iou": 0.6260663270950317
+    },
+    {
+        "image_names": "image_366",
+        "iou": 0.14880649745464325
+    },
+    {
+        "image_names": "image_367",
+        "iou": 0.48139920830726624
+    },
+    {
+        "image_names": "image_369",
+        "iou": 0.49156513810157776
+    },
+    {
+        "image_names": "image_370",
+        "iou": 0.4782308340072632
+    },
+    {
+        "image_names": "image_371",
+        "iou": 0.7004805207252502
+    },
+    {
+        "image_names": "image_372",
+        "iou": 0.31773778796195984
+    },
+    {
+        "image_names": "image_373",
+        "iou": 0.43261921405792236
+    },
+    {
+        "image_names": "image_374",
+        "iou": 0.4558938443660736
+    },
+    {
+        "image_names": "image_375",
+        "iou": 0.5802693963050842
+    },
+    {
+        "image_names": "image_376",
+        "iou": 0.6570048332214355
+    },
+    {
+        "image_names": "image_377",
+        "iou": 0.509393036365509
+    },
+    {
+        "image_names": "image_378",
+        "iou": 0.5887224078178406
+    },
+    {
+        "image_names": "image_379",
+        "iou": 0.43668121099472046
+    },
+    {
+        "image_names": "image_380",
+        "iou": 0.6848591566085815
+    },
+    {
+        "image_names": "image_381",
+        "iou": 0.5400530695915222
+    },
+    {
+        "image_names": "image_382",
+        "iou": 0.4167604148387909
+    },
+    {
+        "image_names": "image_383",
+        "iou": 0.23631435632705688
+    },
+    {
+        "image_names": "image_384",
+        "iou": 0.6122601628303528
+    },
+    {
+        "image_names": "image_385",
+        "iou": 0.6888013482093811
+    },
+    {
+        "image_names": "image_386",
+        "iou": 0.5631847977638245
+    },
+    {
+        "image_names": "image_387",
+        "iou": 0.39673635363578796
+    },
+    {
+        "image_names": "image_388",
+        "iou": 0.579920768737793
+    },
+    {
+        "image_names": "image_389",
+        "iou": 0.47573205828666687
+    },
+    {
+        "image_names": "image_390",
+        "iou": 0.6584421992301941
+    },
+    {
+        "image_names": "image_391",
+        "iou": 0.41081807017326355
+    },
+    {
+        "image_names": "image_392",
+        "iou": 0.42766204476356506
+    },
+    {
+        "image_names": "image_393",
+        "iou": 0.5688854455947876
+    },
+    {
+        "image_names": "image_394",
+        "iou": 0.4755677878856659
+    },
+    {
+        "image_names": "image_395",
+        "iou": 0.6651495695114136
+    },
+    {
+        "image_names": "image_396",
+        "iou": 0.5928571224212646
+    },
+    {
+        "image_names": "image_397",
+        "iou": 0.43275049328804016
+    },
+    {
+        "image_names": "image_398",
+        "iou": 0.6557759642601013
+    },
+    {
+        "image_names": "image_399",
+        "iou": 0.5268726348876953
+    },
+    {
+        "image_names": "image_400",
+        "iou": 0.7501290440559387
+    },
+    {
+        "image_names": "image_401",
+        "iou": 0.40072202682495117
+    },
+    {
+        "image_names": "image_402",
+        "iou": 0.49577465653419495
+    },
+    {
+        "image_names": "image_403",
+        "iou": 0.555156946182251
+    },
+    {
+        "image_names": "image_404",
+        "iou": 0.5350215435028076
+    },
+    {
+        "image_names": "image_405",
+        "iou": 0.6494479775428772
+    },
+    {
+        "image_names": "image_406",
+        "iou": 0.3540406823158264
+    },
+    {
+        "image_names": "image_407",
+        "iou": 0.5436115264892578
+    },
+    {
+        "image_names": "image_408",
+        "iou": 0.40645161271095276
+    },
+    {
+        "image_names": "image_409",
+        "iou": 0.5238773822784424
+    },
+    {
+        "image_names": "image_410",
+        "iou": 0.40276941657066345
+    },
+    {
+        "image_names": "image_411",
+        "iou": 0.49842071533203125
+    },
+    {
+        "image_names": "image_412",
+        "iou": 0.601546049118042
+    },
+    {
+        "image_names": "image_413",
+        "iou": 0.7240280508995056
+    },
+    {
+        "image_names": "image_414",
+        "iou": 0.5507246255874634
+    },
+    {
+        "image_names": "image_415",
+        "iou": 0.6429651975631714
+    },
+    {
+        "image_names": "image_416",
+        "iou": 0.6145833134651184
+    },
+    {
+        "image_names": "image_417",
+        "iou": 0.29194632172584534
+    },
+    {
+        "image_names": "image_418",
+        "iou": 0.6713286638259888
+    },
+    {
+        "image_names": "image_419",
+        "iou": 0.5877229571342468
+    },
+    {
+        "image_names": "image_420",
+        "iou": 0.6674816608428955
+    },
+    {
+        "image_names": "image_421",
+        "iou": 0.5632715821266174
+    },
+    {
+        "image_names": "image_422",
+        "iou": 0.5223214030265808
+    },
+    {
+        "image_names": "image_423",
+        "iou": 0.4917127192020416
+    },
+    {
+        "image_names": "image_424",
+        "iou": 0.4998047649860382
+    },
+    {
+        "image_names": "image_425",
+        "iou": 0.7289509177207947
+    },
+    {
+        "image_names": "image_426",
+        "iou": 0.6536539793014526
+    },
+    {
+        "image_names": "image_427",
+        "iou": 0.5216154456138611
+    },
+    {
+        "image_names": "image_428",
+        "iou": 0.5246015191078186
+    },
+    {
+        "image_names": "image_429",
+        "iou": 0.5096209645271301
+    },
+    {
+        "image_names": "image_430",
+        "iou": 0.5142262578010559
+    },
+    {
+        "image_names": "image_431",
+        "iou": 0.5405053496360779
+    },
+    {
+        "image_names": "image_432",
+        "iou": 0.39537712931632996
+    },
+    {
+        "image_names": "image_433",
+        "iou": 0.6660436391830444
+    },
+    {
+        "image_names": "image_434",
+        "iou": 0.5863636136054993
+    },
+    {
+        "image_names": "image_435",
+        "iou": 0.5833840370178223
+    },
+    {
+        "image_names": "image_436",
+        "iou": 0.3130287528038025
+    },
+    {
+        "image_names": "image_437",
+        "iou": 0.5528554320335388
+    },
+    {
+        "image_names": "image_438",
+        "iou": 0.3950481414794922
+    },
+    {
+        "image_names": "image_439",
+        "iou": 0.5642927885055542
+    },
+    {
+        "image_names": "image_440",
+        "iou": 0.5319207310676575
+    },
+    {
+        "image_names": "image_441",
+        "iou": 0.5492598414421082
+    },
+    {
+        "image_names": "image_442",
+        "iou": 0.6094260215759277
+    },
+    {
+        "image_names": "image_443",
+        "iou": 0.4697110950946808
+    },
+    {
+        "image_names": "image_444",
+        "iou": 0.5776920318603516
+    },
+    {
+        "image_names": "image_445",
+        "iou": 0.4326396584510803
+    },
+    {
+        "image_names": "image_446",
+        "iou": 0.5867229700088501
+    },
+    {
+        "image_names": "image_447",
+        "iou": 0.563034176826477
+    },
+    {
+        "image_names": "image_448",
+        "iou": 0.3542899489402771
+    },
+    {
+        "image_names": "image_449",
+        "iou": 0.5275924801826477
+    },
+    {
+        "image_names": "image_450",
+        "iou": 0.3751033842563629
+    },
+    {
+        "image_names": "image_451",
+        "iou": 0.5300639867782593
+    },
+    {
+        "image_names": "image_452",
+        "iou": 0.6055792570114136
+    },
+    {
+        "image_names": "image_453",
+        "iou": 0.4991482198238373
+    },
+    {
+        "image_names": "image_454",
+        "iou": 0.5087401866912842
+    },
+    {
+        "image_names": "image_455",
+        "iou": 0.5474162697792053
+    },
+    {
+        "image_names": "image_456",
+        "iou": 0.36360883712768555
+    },
+    {
+        "image_names": "image_457",
+        "iou": 0.42982006072998047
+    },
+    {
+        "image_names": "image_458",
+        "iou": 0.6184351444244385
+    },
+    {
+        "image_names": "image_459",
+        "iou": 0.5695012211799622
+    },
+    {
+        "image_names": "image_460",
+        "iou": 0.468932569026947
+    },
+    {
+        "image_names": "image_461",
+        "iou": 0.49602779746055603
+    },
+    {
+        "image_names": "image_462",
+        "iou": 0.4173712432384491
+    },
+    {
+        "image_names": "image_463",
+        "iou": 0.5323574542999268
+    },
+    {
+        "image_names": "image_464",
+        "iou": 0.613937258720398
+    },
+    {
+        "image_names": "image_465",
+        "iou": 0.5197974443435669
+    },
+    {
+        "image_names": "image_466",
+        "iou": 0.6368302702903748
+    },
+    {
+        "image_names": "image_467",
+        "iou": 0.3030523359775543
+    },
+    {
+        "image_names": "image_468",
+        "iou": 0.5681645274162292
+    },
+    {
+        "image_names": "image_469",
+        "iou": 0.46114692091941833
+    },
+    {
+        "image_names": "image_470",
+        "iou": 0.2756972014904022
+    },
+    {
+        "image_names": "image_471",
+        "iou": 0.6586270928382874
+    },
+    {
+        "image_names": "image_472",
+        "iou": 0.570304274559021
+    },
+    {
+        "image_names": "image_473",
+        "iou": 0.533801257610321
+    },
+    {
+        "image_names": "image_474",
+        "iou": 0.6512309312820435
+    },
+    {
+        "image_names": "image_475",
+        "iou": 0.49832776188850403
+    },
+    {
+        "image_names": "image_476",
+        "iou": 0.5994417071342468
+    },
+    {
+        "image_names": "image_477",
+        "iou": 0.11561644077301025
+    }
+]
