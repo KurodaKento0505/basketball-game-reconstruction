@@ -2,5 +2,7 @@
 *.pyc
 *.pt
 *.torch
+*.jpg
+*.png
 basketball-instants-dataset.zip
 work_dirs
